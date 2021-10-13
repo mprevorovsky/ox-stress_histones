@@ -1,0 +1,72 @@
+---
+title: "Histone_ChIP-seq analysis"
+author: "Jarmila Princova"
+date: "6/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Download genome
+
+```{bash}
+mkdir -p ./genome
+wget -N --directory-prefix ./genome/ "ftp://ftp.pombase.org/pombe/genome_sequence_and_features/genome_sequence/Schizosaccharomyces_pombe_chromosome_I.fa.gz"
+wget -N --directory-prefix ./genome/ "ftp://ftp.pombase.org/pombe/genome_sequence_and_features/genome_sequence/Schizosaccharomyces_pombe_chromosome_II.fa.gz"
+wget -N --directory-prefix ./genome/ "ftp://ftp.pombase.org/pombe/genome_sequence_and_features/genome_sequence/Schizosaccharomyces_pombe_chromosome_III.fa.gz"
+wget -N --directory-prefix ./genome/ "ftp://ftp.pombase.org/pombe/genome_sequence_and_features/genome_sequence/Schizosaccharomyces_pombe_mitochondrial_chromosome.fa.gz"
+zcat `ls ./genome/* | grep fa\.gz$` > ./genome/Schizosaccharomyces_pombe.fa
+```
+
+## Create table of chromosome sizes
+
+```{bash}
+samtools faidx ./genome/Schizosaccharomyces_pombe.fa
+cut -f1,2 ./genome/Schizosaccharomyces_pombe.fa.fai > ./genome/chromosome_sizes
+```
+
+## Perform quality control of FASTQ files
+
+```{bash}
+mkdir -p "./fastQC"
+fastqc --outdir ./fastQC --threads 7 ./FASTQ/*
+```
+
+## Map files with taking both FASTQ files for biological sample, where applicable
+
+```{bash}
+hisat2-build --quiet -p 7 ./genome/Schizosaccharomyces_pombe.fa ./genome/Schizosaccharomyces_pombe.fa
+CPU=7  # number of available CPUs
+HISAT2_index="./genome/Schizosaccharomyces_pombe.fa"
+fastq_dir="./FASTQ/"
+mkdir -p "./HISAT_2files/"
+bam_dir="./HISAT_2files/"
+
+for i in `ls -p ${fastq_dir} | grep -v / | cut -d'_' -f 1 | uniq`;
+do
+    infile=$(ls -m ${fastq_dir}${i}* | sed 's/ //g')
+    outfile="${bam_dir}${i}.bam"
+    hisat2 -x "${HISAT2_index}" -U "${infile}" -k 15 --threads "${CPU}" --summary-file "${outfile}.log" --no-spliced-alignment \
+	| samtools view -b -F 256 --threads "${CPU}" - | samtools sort -o "${outfile}" -
+    samtools index "${outfile}"
+done
+```
+
+## Normalization using library size
+
+In bash, deeptools, BamCoverage
+
+```{bash}
+CPU=7
+mkdir -p "./CPM_normalized_bigwig/"
+bam_dir="./HISAT_2files/"
+bams=$(ls ${bam_dir}*.bam | cut -d'/' -f 3)
+for i in ${bams};
+do
+    outfile="./CPM_normalized_bigwig/${i}.norm.bw"
+    bamCoverage -b "${bam_dir}${i}" -o "${outfile}" -of bigwig --binSize 1 -p "${CPU}" --normalizeUsing CPM
+done
+```
+

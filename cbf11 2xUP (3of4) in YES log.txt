@@ -1,0 +1,126 @@
+SPCC338.18	SPCC338.18	sequence orphan
+pbi2	SPCC338.12	proteinase B inhibitor Pbi2 (predicted)
+SPAC22A12.17c	SPAC22A12.17c	short chain dehydrogenase (predicted)
+SPCC16A11.15c	SPCC16A11.15c	sequence orphan
+mug147	SPBC56F2.06	sequence orphan
+plr1	SPAC9E9.11	pyridoxal reductase Plr1
+str3	SPAC1F8.03c	siderophore-iron transporter Str3
+SPAC1F8.04c	SPAC1F8.04c	hydrolase (predicted)
+SPAC4H3.03c	SPAC4H3.03c	glucan 1,4-alpha-glucosidase (predicted)
+SPCPB16A4.06c	SPCPB16A4.06c	sequence orphan
+SPBC725.03	SPBC725.03	conserved fungal protein
+SPCC1393.12	SPCC1393.12	sequence orphan
+obr1	SPAC3C7.14c	ubiquitinated histone-like protein Uhp1
+SPCC1223.09	SPCC1223.09	uricase (predicted)
+SPAC22F8.05	SPAC22F8.05	alpha,alpha-trehalose-phosphate synthase (predicted)
+SPAC26F1.07	SPAC26F1.07	glucose 1-dehydrogenase (NADP+) (predicted)
+aif1	SPAC26F1.14c	apoptosis-inducing factor homolog Aif1 (predicted)
+mug158	SPBC1604.01	sulfatase modifying factor 1 related (predicted)
+SPBC725.10	SPBC725.10	tspO homolog/ peripheral benzodiazepine receptor homolog, involved in the transport cytoplas/mitochondrial of haem (predicted)
+vip1	SPAC10F6.06	RNA-binding protein Vip1
+SPBC215.11c	SPBC215.11c	aldo/keto reductase, unknown biological role
+fip1	SPAC1F7.07c	iron permease Fip1
+SPAC22G7.11c	SPAC22G7.11c	conserved fungal protein
+SPBC1773.06c	SPBC1773.06c	alcohol dehydrogenase (predicted)
+ctt1	SPCC757.07c	catalase
+frp1	SPBC1683.09c	ferric-chelate reductase Frp1
+gst2	SPCC965.07c	glutathione S-transferase Gst2
+SPAC26H5.09c	SPAC26H5.09c	gfo/idh/mocA family oxidoreductase (predicted)
+tps1	SPAC328.03	alpha,alpha-trehalose-phosphate synthase [UDP-forming]
+SPCC330.06c	SPCC330.06c	thioredoxin peroxidase (predicted)
+isp6	SPAC4A8.04	vacuolar serine protease Isp6
+SPAC23H3.15c	SPAC23H3.15c	sequence orphan
+SPCC191.01	SPCC191.01	sequence orphan
+SPBC24C6.09c	SPBC24C6.09c	phosphoketolase family protein (predicted)
+SPAC1F8.02c	SPAC1F8.02c	sequence orphan
+grx1	SPAC4F10.20	glutaredoxin Grx1
+SPAC139.05	SPAC139.05	succinate-semialdehyde dehydrogenase (predicted)
+SPCC757.03c	SPCC757.03c	ThiJ domain protein
+SPBC21C3.19	SPBC21C3.19	SBDS family protein Rtc3 (predicted)
+caf5	SPBC609.04	spermine family transmembrane transporter Caf5
+SPAC2E1P3.01	SPAC2E1P3.01	dehydrogenase (predicted)
+SPBC30D10.14	SPBC30D10.14	dienelactone hydrolase family (predicted)
+gpd1	SPBC215.05	glycerol-3-phosphate dehydrogenase Gpd1
+srx1	SPBC106.02c	sulfiredoxin
+SPAC32A11.02c	SPAC32A11.02c	conserved fungal protein
+ntp1	SPBC660.07	alpha,alpha-trehalase Ntp1
+SPBC16D10.08c	SPBC16D10.08c	heat shock protein Hsp104 (predicted)
+rds1	SPAC343.12	conserved fungal protein
+SPCC663.08c	SPCC663.08c	short chain dehydrogenase
+SPAC15E1.02c	SPAC15E1.02c	DUF1761 family protein
+SPBC23G7.10c	SPBC23G7.10c	NADH-dependent flavin oxidoreductase (predicted)
+ish1	SPBC365.12c	LEA domain protein
+SPAC27D7.09c	SPAC27D7.09c	But2 family protein
+SPBC12C2.04	SPBC12C2.04	NAD binding dehydrogenase family protein
+gpx1	SPBC32F12.03c	glutathione peroxidase Gpx1
+zym1	SPAC22H10.13	metallothionein Zym1
+SPBC4F6.17c	SPBC4F6.17c	mitochondrial heatshock protein Hsp78 (predicted)
+SPAC3G9.11c	SPAC3G9.11c	pyruvate decarboxylase (predicted)
+SPAC11D3.13	SPAC11D3.13	ThiJ domain protein
+hsp9	SPAP8A3.04c	heat shock protein Hsp9
+SPCC736.07c	SPCC736.07c	unconventional prefoldin involved in translation initiation (predicted)
+SPBC2A9.02	SPBC2A9.02	NAD dependent epimerase/dehydratase family protein
+rsv2	SPBC1105.14	transcription factor Rsv2
+SPAPB24D3.08c	SPAPB24D3.08c	NADP-dependent oxidoreductase (predicted)
+SPBC16A3.02c	SPBC16A3.02c	mitochondrial peptidase (predicted)
+SPAC2F3.05c	SPAC2F3.05c	xylose and arabinose reductase (predicted)
+SPAPJ691.02	SPAPJ691.02	yippee-like protein
+lsd90	SPBC16E9.16c	Lsd90 protein
+etr1	SPAC26F1.04c	enoyl-[acyl-carrier protein] reductase (predicted)
+SPCC663.06c	SPCC663.06c	short chain dehydrogenase (predicted)
+SPBC11C11.06c	SPBC11C11.06c	sequence orphan
+zta1	SPCC1442.16c	NADPH quinone oxidoreductase/ARE-binding protein (predicted)
+SPCC18B5.02c	SPCC18B5.02c	cinnamoyl-CoA reductase pseudogene
+prl65	SPAC19A8.16	conserved fungal protein
+SPAC4H3.08	SPAC4H3.08	3-hydroxyacyl-CoA dehydrogenase (predicted)
+psi1	SPCC830.07c	DNAJ domain protein, involved in translation initiation Psi1
+SPAC5H10.02c	SPAC5H10.02c	ThiJ domain protein
+SPAC513.07	SPAC513.07	flavonol reductase/cinnamoyl-CoA reductase family
+SPBPB2B2.08	SPBPB2B2.08	conserved fungal protein
+SPBPB2B2.05	SPBPB2B2.05	peptidase family C26 protein
+SPACUNK4.17	SPACUNK4.17	NAD binding dehydrogenase family protein
+mug108	SPAC29A4.12c	sequence orphan
+ubi4	SPBC337.08c	ubiquitin
+SPBP4H10.12	SPBP4H10.12	conserved protein
+gas2	SPBC29A10.08	1,3-beta-glucanosyltransferase Gas2 (predicted)
+SPAC23C11.06c	SPAC23C11.06c	hydrolase (inferred from context)
+SPAC977.14c	SPAC977.14c	aldo/keto reductase, unknown biological role
+SPBC19C7.04c	SPBC19C7.04c	conserved fungal protein
+SPNCRNA.134	SPNCRNA.134	non-coding RNA (predicted)
+slt1	SPAC17G6.13	sequence orphan Slt1
+mae2	SPCC794.12c	malic enzyme, malate dehydrogenase (oxaloacetate decarboxylating), Mae2
+nep2	SPBC32H8.02c	NEDD8 protease Nep2
+SPAC513.06c	SPAC513.06c	dihydrodiol dehydrogenase (predicted)
+SPAC513.02	SPAC513.02	phosphoglycerate mutase family
+bfr1	SPCC18B5.01c	brefeldin A efflux transporter Bfr1
+gdh2	SPCC132.04c	NAD-dependent glutamate dehydrogenase Gdh2 (predicted)
+SPAC869.02c	SPAC869.02c	nitric oxide dioxygenase (predicted)
+SPBC17D11.08	SPBC17D11.08	WD repeat protein, DDB1 and CUL4-associated factor 7 (predicted)
+SPAPB24D3.07c	SPAPB24D3.07c	sequence orphan
+SPBC119.03	SPBC119.03	human COMT homolog 1
+SPBC660.06	SPBC660.06	conserved fungal protein
+SPCC1840.12	SPCC1840.12	OPT oligopeptide transporter family protein (predicted)
+hsp16	SPBC3E7.02c	heat shock protein Hsp16
+SPBC660.05	SPBC660.05	conserved fungal protein
+mug143	SPAC167.06c	sequence orphan
+SPAC750.01	SPAC750.01	hypothetical protein
+SPAC637.03	SPAC637.03	conserved fungal protein
+SPBPB21E7.04c	SPBPB21E7.04c	human COMT ortholog 2
+fhn1	SPBC1685.13	Fhn1 plasma membrane organization protein
+SPAC3A11.10c	SPAC3A11.10c	dipeptidyl peptidase (predicted)
+fbp1	SPBC1198.14c	fructose-1,6-bisphosphatase Fbp1
+SPAC19G12.09	SPAC19G12.09	NADH/NADPH dependent indole-3-acetaldehyde reductase AKR3C2
+mug35	SPAC22H12.01c	sequence orphan
+yak3	SPAC1F7.12	aldose reductase ARK13 family YakC
+sib2	SPAC23G3.03	ornithine N5 monooxygenase (predicted)
+frg1	SPBP23A10.12	FRG1 family protein, involved in mRNA processing (predicted)
+cgs1	SPAC8C9.03	cAMP-dependent protein kinase regulatory subunit Cgs1
+SPAC4H3.04c	SPAC4H3.04c	UPF0103 family
+SPCC4G3.03	SPCC4G3.03	WD40/YVTN repeat-like protein
+SPCC70.04c	SPCC70.04c	sequence orphan
+srk1	SPCC1322.08	MAPK-activated protein kinase Srk1
+SPCC1235.01	SPCC1235.01	sequence orphan
+SPCC737.04	SPCC737.04	S. pombe specific UPF0300 family protein 6
+SPCC1739.06c	SPCC1739.06c	uroporphyrin methyltransferase (predicted)
+bgl2	SPAC26H5.08c	glucan beta-glucosidase Bgl2 (predicted)
+

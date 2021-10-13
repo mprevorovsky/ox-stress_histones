@@ -1,0 +1,549 @@
+Gene Name	Value	Genbank	Description	Product	PubMedID	Custom 1 Field	GO biological process
+SPCC320.03	0	SPCC320.03	transcription factor (predicted)				
+nup131	0	SPBP35G2.06c	nucleoporin Nup131				
+SPCC320.06	0	SPCC320.06	conserved fungal protein				
+SPCC320.05	0	SPCC320.05	sulphate transporter (predicted)				
+ish1	0	SPBC365.12c	LEA domain protein				
+SPBC21C3.19	0	SPBC21C3.19	SBDS family protein Rtc3 (predicted)				
+fbp1	0	SPBC1198.14c	fructose-1,6-bisphosphatase Fbp1				
+SPCC569.03	0	SPCC569.03	cell surface glycoprotein (predicted), DUF1773 family protein 4				
+caf5	0	SPBC609.04	spermine family transmembrane transporter Caf5				
+SPAC57A7.05	0	SPAC57A7.05	conserved protein				
+SPAC22H12.03	0	SPAC22H12.03	mitochondrial hydrolase (predicted)				
+SPAC1687.08	0	SPAC1687.08	sequence orphan				
+SPAC1687.07	0	SPAC1687.07	conserved fungal protein				
+Tf2-3	0	SPAC2E1P3.03c	retrotransposable element				
+SPBC557.05	0	SPBC557.05	arrestin				
+SPBC2D10.04	0	SPBC2D10.04	arrestin Aly1 related, implicated in endocytosis				
+atg6	0	SPAC20G8.10c	beclin family protein, involved in autophagy				
+SPAC11E3.02c	0	SPAC11E3.02c	C2 domain protein				
+atf31	0	SPAC22F3.02	transcription factor Atf31				
+SPAC12G12.16c	0	SPAC12G12.16c	Fen1 family nuclease, XP-G family (predicted)				
+SPBC1348.12	0	SPBC1348.12	zinc finger protein				
+SPBC21H7.06c	0	SPBC21H7.06c	inositol metabolism protein Opi10 (predicted)				
+obr1	0	SPAC3C7.14c	ubiquitinated histone-like protein Uhp1				
+SPAC12B10.13	0	SPAC12B10.13	proteasome-dependent catabolite inactivation protein, ubiquitin ligase complex subunit (predicted)				
+SPAC4D7.02c	0	SPAC4D7.02c	glycerophosphoryl diester phosphodiesterase (predicted)				
+mug191	0	SPAC3C7.05c	alpha-1,6-mannanase (predicted)				
+SPCC306.08c	0	SPCC306.08c	malate dehydrogenase (predicted)				
+SPBC609.01	0	SPBC609.01	ribonuclease II (RNB) family				
+SPCC63.05	0	SPCC63.05	TAP42 family protein involved in TOR signalling (predicted)				
+iqw1	0	SPBC609.03	WD repeat protein, Iqw1				
+lsd90	0	SPBC16E9.16c	Lsd90 protein				
+scn1	0	SPAC688.13	TatD DNase family Scn1				
+pol4	0	SPAC2F7.06c	DNA polymerase X family				
+SPCC569.05c	0	SPCC569.05c	spermidine family transporter (predicted)				
+SPAC14C4.01c	0	SPAC14C4.01c	DUF1770 family protein				
+SPBC29A3.03c	0	SPBC29A3.03c	ubiquitin-protein ligase E3 (predicted)				
+ppk19	0	SPBC119.07	serine/threonine protein kinase Ppk19				
+SPBC119.03	0	SPBC119.03	human COMT homolog 1				
+atg18	0	SPAC589.07c	WD repeat protein involved in autophagy Atg18a				
+gdi1	0	SPAC22H10.12c	GDP dissociation inhibitor Gdi1 (predicted)				
+SPBC216.03	0	SPBC216.03	conserved fungal protein				
+btb1	0	SPCC330.11	BTB/POZ domain protein Btb1				
+SPCPJ732.02c	0	SPCPJ732.02c	xylulose kinase (predicted)				
+SPCPB1C11.02	0	SPCPB1C11.02	amino acid permease (predicted)				
+SPCC962.01	0	SPCC962.01	C2 domain protein				
+SPAC3H8.04	0	SPAC3H8.04	chromosome segregation protein (predicted)				
+SPCC553.10	0	SPCC553.10	conserved fungal protein				
+trx2	0	SPBC12D12.07c	mitochondrial thioredoxin Trx2				
+SPCC737.04	0	SPCC737.04	S. pombe specific UPF0300 family protein 6				
+cdr1	0	SPAC644.06c	NIM1 family serine/threonine protein kinase Cdr1/Nim1				
+SPBC11C11.06c	0	SPBC11C11.06c	sequence orphan				
+mug63	0	SPAC8C9.16c	TLDc domain protein 1				
+rhp14	0	SPBC649.03	XP-A family homolog Rhp14				
+SPAC6G9.16c	0	SPAC6G9.16c	sequence orphan				
+SPCC622.11	0	SPCC622.11	LMBR1-like membrane protein				
+syj2	0	SPBC577.13	inositol-polyphosphate 5-phosphatase, synaptojanin homolog 2 (predicted)				
+SPAC23D3.05c	0	SPAC23D3.05c	alcohol dehydrogenase pseudogene				
+SPAC27D7.09c	0	SPAC27D7.09c	But2 family protein				
+inv1	0	SPCC191.11	beta-fructofuranosidase				
+SPCC1919.04	0	SPCC1919.04	sequence orphan				
+glo1	0	SPBC12C2.12c	glyoxalase I				
+php2	0	SPBC725.11c	CCAAT-binding factor complex subunit Php2				
+SPCC1450.01c	0	SPCC1450.01c	pseudogene				
+mug161	0	SPAC1F3.09	CwfJ family protein, splicing factor (predicted)				
+SPAPB2B4.04c	0	SPAPB2B4.04c	vacuolar calcium transporting P-type ATPase P2 type, Pmc1				
+vac7	0	SPBP8B7.13	Vac7 ortholog (predicted)				
+SPBP8B7.23	0	SPBP8B7.23	ubiquitin-protein ligase E3 implicated in trancription (predicted)				
+ppk21	0	SPBC1778.10c	serine/threonine protein kinase Ppk21				
+ksp1	0	SPBC16E9.13	serine/threonine protein kinase Ksp1 (predicted)				
+gna1	0	SPAC16E8.03	glucosamine-phosphate N-acetyltransferase (predicted)				
+tts1	0	SPBC1539.04	tetra spanning protein 1, Tts1				
+aif1	0	SPAC26F1.14c	apoptosis-inducing factor homolog Aif1 (predicted)				
+SPAC26H5.04	0	SPAC26H5.04	vacuolar import and degradation protein Vid28 (predicted)				
+SPAC637.13c	0	SPAC637.13c	cytoskeletal signaling protein (predicted)				
+atg1	0	SPCC63.08c	autophagy and CVT pathway serine/threonine protein kinase Atg1				
+SPBC409.17c	0	SPBC409.17c	DUF1769 family protein				
+SPCC622.15c	0	SPCC622.15c	sequence orphan				
+pdr1	0	SPAPB24D3.09c	ABC transporter Pdr1				
+cds1	0	SPCC18B5.11c	replication checkpoint kinase Cds1				
+SPCC757.03c	0	SPCC757.03c	ThiJ domain protein				
+SPAC139.05	0	SPAC139.05	succinate-semialdehyde dehydrogenase (predicted)				
+SPCC1183.11	0	SPCC1183.11	MS ion channel protein 1 (predicted)				
+rhp7	0	SPCC330.02	Rad7 homolog Rhp7				
+vps1302	0	SPBC16C6.02c	chorein homolog (predicted)				
+SPCC576.04	0	SPCC576.04	conserved eukaryotic protein				
+SPBC4F6.17c	0	SPBC4F6.17c	mitochondrial heatshock protein Hsp78 (predicted)				
+SPAC23C11.06c	0	SPAC23C11.06c	hydrolase (inferred from context)				
+SPBP4H10.12	0	SPBP4H10.12	conserved protein				
+res2	0	SPAC22F3.09c	MBF transcription factor complex subunit Res2				
+SPAPB1E7.08c	0	SPAPB1E7.08c	membrane transporter (predicted)				
+yop1	0	SPCC830.08c	ER membrane protein DP1/Yop1				
+SPBC776.05	0	SPBC776.05	membrane transporter (predicted)				
+SPBP4H10.10	0	SPBP4H10.10	rhomboid family protease				
+gpi12	0	SPAPB2B4.01c	pig-L, N-acetylglucosaminylphosphatidyl inositoldeacetylase (predicted)				
+SPMIT.08	0	SPMIT.08	mitochondrial ribosomal small subunit (predicted)				
+ubx4	0	SPBC21C3.11	UBX domain protein Ubx4 (predicted)				
+SPAC167.05	0	SPAC167.05	Usp (universal stress protein) family protein, implicated in meiotic chromosome segregation				
+SPBC16D10.08c	0	SPBC16D10.08c	heat shock protein Hsp104 (predicted)				
+SPAC16A10.01	0	SPAC16A10.01	DUF1212 family protein				
+SPBC1289.06c	0	SPBC1289.06c	sequence orphan				
+SPAC750.06c	0	SPAC750.06c	S. pombe specific DUF999 protein family 4				
+ero11	0	SPBC4F6.16c	ER oxidoreductin Ero1a				
+ptr3	0	SPBC1604.21c	ubiquitin activating enzyme E1				
+ppk8	0	SPAC22G7.08	serine/threonine protein kinase Ppk8 (predicted)				
+SPBP35G2.14	0	SPBP35G2.14	RNA-binding protein				
+ubc8	0	SPBC211.07c	ubiquitin conjugating enzyme Ubc8 (predicted)				
+ucp10	0	SPCC285.11	UBA/UAS domain protein Ucp10 (predicted)				
+SPBC428.10	0	SPBC428.10	sequence orphan				
+SPCC584.16c	0	SPCC584.16c	sequence orphan				
+SPBP35G2.12	0	SPBP35G2.12	ADP-ribose diphosphatase, NudF subfamily (predicted)				
+SPCC1393.12	0	SPCC1393.12	sequence orphan				
+cip1	0	SPBC16A3.18	RNA-binding protein Cip1				
+SPBC17D11.08	0	SPBC17D11.08	WD repeat protein, DDB1 and CUL4-associated factor 7 (predicted)				
+ptc4	0	SPAC4A8.03c	protein phosphatase 2C Ptc4				
+mkh1	0	SPAC1F3.02c	MEK kinase (MEKK) Mkh1				
+SPBC725.10	0	SPBC725.10	tspO homolog/ peripheral benzodiazepine receptor homolog, involved in the transport cytoplas/mitochondrial of haem (predicted)				
+SPACUNK4.16c	0	SPACUNK4.16c	alpha,alpha-trehalose-phosphate synthase (predicted)				
+SPAC4H3.04c	0	SPAC4H3.04c	UPF0103 family				
+SPBC16A3.02c	0	SPBC16A3.02c	mitochondrial peptidase (predicted)				
+SPAC2F3.16	0	SPAC2F3.16	ubiquitin-protein ligase E3 (predicted)				
+pgi1	0	SPBC1604.05	glucose-6-phosphate isomerase (predicted)				
+SPAC824.07	0	SPAC824.07	hydroxyacylglutathione hydrolase (predicted)				
+puf3	0	SPAC1687.22c	RNA-binding protein Puf3 (predicted)				
+ivn1	0	SPBC11B10.07c	CDC50 domain protein, implicated in signal transduction (predicted)				
+dga1	0	SPCC1235.15	diacylglycerol O-acyltransferase Dga1				
+ypt4	0	SPAC1B3.11c	GTPase Ypt4				
+SPAC15E1.10	0	SPAC15E1.10	PI31 proteasome inhibitor (predicted)				
+ypt7	0	SPBC405.04c	GTPase Ypt7				
+SPBC1773.06c	0	SPBC1773.06c	alcohol dehydrogenase (predicted)				
+cox1	0	SPMIT.01	cytochrome c oxidase 1 (predicted)				
+gad8	0	SPCC24B10.07	AGC family protein kinase Gad8				
+SPAC4H3.03c	0	SPAC4H3.03c	glucan 1,4-alpha-glucosidase (predicted)				
+grx1	0	SPAC4F10.20	glutaredoxin Grx1				
+tms1	0	SPBC1773.05c	hexitol dehydrogenase (predicted)				
+SPAC3C7.13c	0	SPAC3C7.13c	glucose-6-phosphate 1-dehydrogenase (predicted)				
+SPAC18B11.02c	0	SPAC18B11.02c	tRNA pseudouridylate synthase (predicted)				
+SPBC725.03	0	SPBC725.03	conserved fungal protein				
+SPAC6F6.12	0	SPAC6F6.12	autophagy associated protein Atg24 (predicted)				
+bfr1	0	SPCC18B5.01c	brefeldin A efflux transporter Bfr1				
+gst2	0	SPCC965.07c	glutathione S-transferase Gst2				
+SPCC1682.11c	0	SPCC1682.11c	choline transmembrane transporter family protein (predicted)				
+SPBC23G7.10c	0	SPBC23G7.10c	NADH-dependent flavin oxidoreductase (predicted)				
+fhn1	0	SPBC1685.13	Fhn1 plasma membrane organization protein				
+SPAC25B8.18	0	SPAC25B8.18	mitochondrial electron carrier (predicted)				
+SPAC25B8.08	0	SPAC25B8.08	conserved fungal protein				
+SPAC328.04	0	SPAC328.04	AAA family ATPase, unknown biological role				
+dil1	0	SPAC458.04c	dynein intermediate light chain Dil1				
+SPBC1711.12	0	SPBC1711.12	oxidised protein hydrolase (predicted)				
+atg20	0	SPCC16A11.08	sorting nexin Atg20 (predicted)				
+SPCC16A11.01	0	SPCC16A11.01	plasma membrane protein involved in inositol lipid-mediated signaling (predicted)				
+mug66	0	SPAC25H1.03	meiotically upregulated gene Mug66				
+jmj1	0	SPAC25H1.02	histone demethylase Jmj1 (predicted)				
+SPBC1711.11	0	SPBC1711.11	autophagy associated protein (predicted)				
+mug105	0	SPAC25H1.04	ubiquitin-fold modifier-specific protease (predicted)				
+SPAPB24D3.03	0	SPAPB24D3.03	agmatinase (predicted)				
+SPAC9E9.09c	0	SPAC9E9.09c	aldehyde dehydrogenase (predicted)				
+ptc1	0	SPCC4F11.02	protein phosphatase 2C Ptc1				
+SPCC1739.04c	0	SPCC1739.04c	sequence orphan				
+SPAC6C3.08	0	SPAC6C3.08	proteasome regulatory particle, gankyrin (predicted)				
+cit1	0	SPAC6C3.04	citrate synthase Cit1				
+tal1	0	SPCC1020.06c	transaldolase (predicted)				
+SPCC594.06c	0	SPCC594.06c	vacuolar SNARE Vam7 (predicted)				
+fsv1	0	SPAC6F12.03c	SNARE Fsv1				
+SPBC1685.05	0	SPBC1685.05	serine protease (predicted)				
+SPAPB2B4.06	0	SPAPB2B4.06	conserved fungal protein				
+tpx1	0	SPCC576.03c	thioredoxin peroxidase Tpx1				
+zym1	0	SPAC22H10.13	metallothionein Zym1				
+SPAC167.07c	0	SPAC167.07c	ubiquitin-protein ligase E3 (predicted)				
+SPAC2C4.17c	0	SPAC2C4.17c	MS ion channel protein 2 (predicted)				
+sod1	0	SPAC821.10c	superoxide dismutase Sod1				
+SPBC651.09c	0	SPBC651.09c	RNA polymerase II associated Paf1 complex (predicted)				
+SPBC106.03	0	SPBC106.03	DUF1776 family protein				
+SPAPB1A11.03	0	SPAPB1A11.03	cytochrome b2 (L-lactate cytochrome-c oxidoreductase) (predicted)				
+SPCC1235.03	0	SPCC1235.03	SMR domain protein, possibly involved in DNA repair				
+SPBC2A9.02	0	SPBC2A9.02	NAD dependent epimerase/dehydratase family protein				
+SPAC1142.09	0	SPAC1142.09	dubious				
+tcg1	0	SPBC660.11	single-stranded telomeric binding protein Tgc1				
+pmp3	0	SPBC713.11c	plasma membrane proteolipid Pmp3				
+oct1	0	SPAC1F3.10c	mitochondrial intermediate peptidase Oct1 (predicted)				
+SPCC191.01	0	SPCC191.01	sequence orphan				
+rad50	0	SPAC1556.01c	DNA repair protein Rad50				
+are2	0	SPCP1E11.05c	acyl-coA-sterol acyltransferase Are2 (predicted)				
+pof14	0	SPAC13D6.01	F-box protein Pof14				
+SPAC328.07c	0	SPAC328.07c	heavy metal ion homeostasis protein (predicted)				
+cdc10	0	SPBC336.12c	MBF transcription factor complex subunit Cdc10				
+mug147	0	SPBC56F2.06	sequence orphan				
+SPAC22E12.03c	0	SPAC22E12.03c	ThiJ domain protein				
+SPAC4H3.08	0	SPAC4H3.08	3-hydroxyacyl-CoA dehydrogenase (predicted)				
+ubx2	0	SPAC2C4.15c	UBX domain protein Ubx2				
+atp5	0	SPCC1840.06	F0-ATPase delta subunit (predicted)				
+SPBC106.13	0	SPBC106.13	ubiquitin ligase complex subunit, involved in proteasome-dependent catabolite inactivation of FBPase (predicted)				
+map1	0	SPAC11E3.06	MADS-box transcription factor Map1				
+pmp31	0	SPCC1183.09c	plasma membrane proteolipid Pmp31				
+SPAC922.07c	0	SPAC922.07c	aldehyde dehydrogenase (predicted)				
+SPBC3H7.08c	0	SPBC3H7.08c	conserved fungal protein				
+SPAC16E8.02	0	SPAC16E8.02	DUF962 family protein				
+mug143	0	SPAC167.06c	sequence orphan				
+ned1	0	SPAC1952.13	lipin Ned1				
+nep1	0	SPBC17D11.01	NEDD8 protease Nep1				
+SPBC1685.14c	0	SPBC1685.14c	Vid27 family protein				
+SPAC222.13c	0	SPAC222.13c	6-phosphofructo-2-kinase (predicted)				
+SPCC1450.13c	0	SPCC1450.13c	riboflavin synthase				
+ppk15	0	SPAC823.03	serine/threonine protein kinase Ppk15 (predicted)				
+atm1	0	SPAC15A10.01	mitochondrial ABC family iron transporter Atm1				
+SPAC16E8.16	0	SPAC16E8.16	transcription factor TFIIB				
+exg3	0	SPBC2D10.05	glucan 1,3-beta-glucosidase Exg3				
+btn1	0	SPAC607.09c	battenin CLN3 family protein				
+SPBC83.16c	0	SPBC83.16c	conserved eukaryotic protein				
+i27_rad24	0	i27_rad24	Inhouse probe				
+ctp1	0	SPCC338.08	CtIP-related endonuclease				
+SPAP32A8.02	0	SPAP32A8.02	xylose and arabinose reductase (predicted)				
+oca2	0	SPCC1020.10	serine/threonine protein kinase Oca2				
+SPAC1D4.02c	0	SPAC1D4.02c	human GRASP protein family Golgi protein (predicted)				
+SPBC29A10.12	0	SPBC29A10.12	HMG-box variant				
+SPBC800.12c	0	SPBC800.12c	ubiquitin family protein (predicted)				
+hsp16	0	SPBC3E7.02c	heat shock protein Hsp16				
+nup189	0	SPAC1486.05	nucleoporin Nup189				
+nhp6	0	SPAC57A10.09c	High-mobility group non-histone chromatin protein (predicted)				
+caf4	0	SPAC664.15	CCR4-Not complex subunit Caf4/Mdv1 (predicted)				
+SPBC83.05	0	SPBC83.05	mitochondrial RNA-binding protein (predicted)				
+i12_c19f5.04	0	i12_c19f5.04	Inhouse probe				
+mug14	0	SPBC359.06	adducin				
+tfg1	0	SPCC1620.09c	transcription factor TFIIF complex alpha subunit Tfg1 (predicted)				
+rds1	0	SPAC343.12	conserved fungal protein				
+hmt1	0	SPCC737.09c	ATP-binding cassette-type vacuolar membrane transporter Hmt1				
+ppr1	0	SPAC21E11.04	L-azetidine-2-carboxylic acid acetyltransferase				
+SPAC2E1P3.01	0	SPAC2E1P3.01	dehydrogenase (predicted)				
+nem1	0	SPBC3B8.10c	Nem1-Spo7 phosphatase complex catalytic subunit Nem1 (predicted)				
+SPBC12C2.04	0	SPBC12C2.04	NAD binding dehydrogenase family protein				
+kin1	0	SPBC4F6.06	microtubule affinity-regulating kinase Kin1				
+SPAC12G12.12	0	SPAC12G12.12	NST UDP-galactose transporter (predicted)				
+SPAC3A12.06c	0	SPAC3A12.06c	sodium/calcium exchanger (predicted)				
+SPAC5D6.04	0	SPAC5D6.04	auxin family transmembrane transporter (predicted)				
+gpx1	0	SPBC32F12.03c	glutathione peroxidase Gpx1				
+i21_ade2: min10	0	i21_ade2: min10	Inhouse probe				
+SPAC607.08c	0	SPAC607.08c	DUF726 family protein				
+plr1	0	SPAC9E9.11	pyridoxal reductase Plr1				
+pep12	0	SPBC31E1.04	SNARE Pep12				
+SPAC977.06	0	SPAC977.06	S. pombe specific DUF999 family protein 3				
+SPCC1450.16c	0	SPCC1450.16c	triacylglycerol lipase (predicted)				
+pof11	0	SPAC29E6.01	F-box protein Pof11				
+git11	0	SPBC215.04	heterotrimeric G protein gamma subunit Git11				
+SPAC17G6.03	0	SPAC17G6.03	phosphoprotein phosphatase (predicted)				
+fus1	0	SPAC20G4.02c	formin Fus1				
+gal10	0	SPBPB2B2.12c	UDP-glucose 4-epimerase/aldose 1-epimerase Gal10				
+pnn1	0	SPAC26F1.02	pinin ortholog, involved in splicing Pnn1 (predicted)				
+SPAC26F1.11	0	SPAC26F1.11	dubious				
+SPAC26F1.07	0	SPAC26F1.07	glucose 1-dehydrogenase (NADP+) (predicted)				
+med15	0	SPBC146.01	mediator complex subunit Med15 (predicted)				
+SPAC521.03	0	SPAC521.03	short chain dehydrogenase (predicted)				
+SPAC637.03	0	SPAC637.03	conserved fungal protein				
+SPAC343.06c	0	SPAC343.06c	phospholipid scramblase (predicted)				
+SPCC285.10c	0	SPCC285.10c	SPRY domain protein				
+SPAC513.07	0	SPAC513.07	flavonol reductase/cinnamoyl-CoA reductase family				
+SPAC513.02	0	SPAC513.02	phosphoglycerate mutase family				
+rst2	0	SPAC6F12.02	transcription factor Rst2				
+sro1	0	SPBC1347.11	stress responsive orphan 1				
+SPBPB2B2.07c	0	SPBPB2B2.07c	S. pombe specific DUF999 protein family 7				
+gst1	0	SPCC191.09c	glutathione S-transferase Gst1				
+sst4	0	SPAC19A8.05c	sorting receptor for ubiquitinated membrane proteins, ESCRT 0 complex subunit Sst4				
+mag1	0	SPAPB24D3.04c	DNA-3-methyladenine glycosylase Mag1				
+pbi2	0	SPCC338.12	proteinase B inhibitor Pbi2 (predicted)				
+gal7	0	SPBPB2B2.10c	galactose-1-phosphate uridylyltransferase Gal7				
+SPCC338.18	0	SPCC338.18	sequence orphan				
+SPBC800.14c	0	SPBC800.14c	DUF1772 family protein				
+SPAC9E9.04	0	SPAC9E9.04	bcap family homolog (predicted)				
+git5	0	SPBC32H8.07	heterotrimeric G protein beta subunit Git5				
+gal1	0	SPBPB2B2.13	galactokinase Gal1				
+SPBC14F5.10c	0	SPBC14F5.10c	ubiquitin-protein ligase E3 (predicted)				
+SPBC405.05	0	SPBC405.05	sequence orphan				
+psi1	0	SPCC830.07c	DNAJ domain protein, involved in translation initiation Psi1				
+tbp1	0	SPAC29E6.08	TATA-binding protein (TBP)				
+SPBPB2B2.11	0	SPBPB2B2.11	nucleotide-sugar 4,6-dehydratase (predicted)				
+pik3	0	SPAC458.05	phosphatidylinositol 3-kinase Pik3				
+cmb1	0	SPAC4G9.11c	cytosine-mismatch binding protein 1				
+srx1	0	SPBC106.02c	sulfiredoxin				
+SPAC977.13c	0	SPAC977.13c	hydrolase, pseudogene				
+isu1	0	SPAC227.13c	mitochondrial iron-sulfur cluster assembly scaffold protein Isu1				
+ubp15	0	SPBC713.02c	ubiquitin C-terminal hydrolase Ubp15				
+atg17	0	SPAC10F6.11c	autophagy associated protein kinase activator Atg17				
+mug35	0	SPAC22H12.01c	sequence orphan				
+npl4	0	SPBC1711.10c	Cdc48-Npl4-Ufd1 complex component Npl4 (predicted)				
+SPAC23C11.07	0	SPAC23C11.07	sequence orphan				
+SPAC1635.01	0	SPAC1635.01	mitochondrial outer membrane voltage-dependent anion-selective channel (predicted)				
+SPAC22G7.11c	0	SPAC22G7.11c	conserved fungal protein				
+Tf2-1	0	SPAC9.04	retrotransposable element				
+SPAC212.04c	0	SPAC212.04c	S. pombe specific DUF999 family protein 1				
+SPBC215.11c	0	SPBC215.11c	aldo/keto reductase, unknown biological role				
+SPCC330.03c	0	SPCC330.03c	NADPH-hemoprotein reductase (predicted)				
+SPCC1494.08c	0	SPCC1494.08c	conserved fungal protein				
+SPBC1105.13c	0	SPBC1105.13c	sequence orphan				
+SPAC630.07c	0	SPAC630.07c	sequence orphan				
+pnc1	0	SPBC365.20c	nicotinamidase Pnc1 (predicted)				
+ssl1	0	SPCC1682.07	transcription factor TFIIH complex subunit Ssl1				
+cgs1	0	SPAC8C9.03	cAMP-dependent protein kinase regulatory subunit Cgs1				
+pas1	0	SPAC19E9.03	cyclin Pas1				
+cdm1	0	SPBC12D12.02c	DNA polymerase delta subunit Cdm1				
+pdi2	0	SPBC3D6.13c	ER associated protein disulfide isomerase Pdi2 (predicted)				
+SPAC11E3.14	0	SPAC11E3.14	conserved eukaryotic protein				
+SPAC24H6.08	0	SPAC24H6.08	sequence orphan				
+SPBC23G7.14	0	SPBC23G7.14	sequence orphan				
+mag2	0	SPBC23G7.11	DNA-3-methyladenine glycosidase Mag2				
+SPAC14C4.07	0	SPAC14C4.07	membrane transporter (predicted)				
+SPAC1A6.07	0	SPAC1A6.07	sequence orphan				
+ght4	0	SPBC1683.08	hexose transporter Ght4				
+ght3	0	SPAC1F8.01	hexose transporter Ght3				
+SPAC4G9.19	0	SPAC4G9.19	DNAJ domain protein DNAJB family (predicted)				
+SPAC4G9.12	0	SPAC4G9.12	gluconokinase				
+pyp3	0	SPAC11E3.09	protein-tyrosine phosphatase Pyp3				
+pyp2	0	SPAC19D5.01	tyrosine phosphatase Pyp2				
+pxa1	0	SPAC5D6.07c	PXA domain protein Pxa1				
+gpd1	0	SPBC215.05	glycerol-3-phosphate dehydrogenase Gpd1				
+SPAC521.04c	0	SPAC521.04c	calcium permease (predicted)				
+hsp9	0	SPAP8A3.04c	heat shock protein Hsp9				
+SPCC1281.07c	0	SPCC1281.07c	glutathione S-transferase Gst3 (predicted)				
+SPCC4F11.05	0	SPCC4F11.05	dubious				
+SPCC4G3.12c	0	SPCC4G3.12c	ubiquitin-protein ligase E3 (predicted)				
+SPBC30D10.14	0	SPBC30D10.14	dienelactone hydrolase family (predicted)				
+SPCC569.01c	0	SPCC569.01c	cell surface glycoprotein (predicted), DUF1773 family protein 5				
+etr1	0	SPAC26F1.04c	enoyl-[acyl-carrier protein] reductase (predicted)				
+mdm34	0	SPBC19C2.11c	mitochondrial outer membrane protein Mdm34 (predicted)				
+SPBC1348.01	0	SPBC1348.01	S. pombe specific DUF999 protein family 5				
+SPAPB1A10.08	0	SPAPB1A10.08	sequence orphan				
+SPCC70.08c	0	SPCC70.08c	methyltransferase (predicted)				
+SPBC1348.07	0	SPBC1348.07	S. pombe specific DUF999 protein family 6				
+Tf2-8	0	SPAC19D5.09c	retrotransposable element				
+Tf2-7	0	SPAC13D1.01c	retrotransposable element				
+SPAC29A4.17c	0	SPAC29A4.17c	mitocondrial FUN14 family protein				
+Tf2-9	0	SPBC9B6.02c	retrotransposable element				
+Tf2-5	0	SPAPB15E9.03c	retrotransposable element				
+Tf2-2	0	SPAC167.08	retrotransposable element				
+Tf2-6	0	SPAC27E2.08	retrotransposable element				
+atg3	0	SPBC3B9.06c	autophagy associated protein Atg3				
+SPCC794.08	0	SPCC794.08	HEAT repeat protein, involved in localization to plasma membrane (predicted)				
+mug158	0	SPBC1604.01	sulfatase modifying factor 1 related (predicted)				
+gut2	0	SPCC1223.03c	glycerol-3-phosphate dehydrogenase Gut2 (predicted)				
+pub3	0	SPBC16E9.11c	HECT-type ubiquitin-protein ligase Pub3 (predicted)				
+SPBC1289.14	0	SPBC1289.14	adducin (predicted)				
+SPCC965.06	0	SPCC965.06	potassium channel subunit (predicted)				
+SPAC212.05c	0	SPAC212.05c	pseudogene				
+rhp16	0	SPCC330.01c	Rad16 homolog Rhp16				
+kms1	0	SPAC3A11.05c	meiotic spindle pole body protein Kms1				
+SPAC227.03c	0	SPAC227.03c	mitochondrial NAD+ transporter (predicted)				
+SPAC1687.14c	0	SPAC1687.14c	EF hand family protein, unknown role				
+SPACUNK4.17	0	SPACUNK4.17	NAD binding dehydrogenase family protein				
+SPCC16A11.15c	0	SPCC16A11.15c	sequence orphan				
+SPCC1281.04	0	SPCC1281.04	pyridoxal reductase (predicted)				
+SPBC23G7.06c	0	SPBC23G7.06c	conserved eukaryotic protein				
+rsv2	0	SPBC1105.14	transcription factor Rsv2				
+SPCP20C8.01c	0	SPCP20C8.01c	cell surface glycoprotein (predicted), DUF2429 family				
+SPACUNK4.15	0	SPACUNK4.15	2',3'-cyclic-nucleotide 3'-phosphodiesterase (predicted)				
+SPAC2F7.17	0	SPAC2F7.17	mitochondrial peptide chain release factor (predicted)				
+SPCC1450.07c	0	SPCC1450.07c	D-amino acid oxidase (predicted)				
+SPAC4A8.02c	0	SPAC4A8.02c	conserved protein, UPF0047 family				
+vip1	0	SPAC10F6.06	RNA-binding protein Vip1				
+cox3	0	SPMIT.04	cytochrome c oxidase 3 (predicted)				
+rec24	0	SPAC1952.15c	meiotic recombination protein Rec24				
+SPBC713.07c	0	SPBC713.07c	vacuolar polyphosphatase (predicted)				
+mug51	0	SPAC1834.09	variant protein kinase 19 family protein				
+SPAC6G10.03c	0	SPAC6G10.03c	mitochondrial cardiolipin-specific phopholipase (predicted)				
+SPCC757.06	0	SPCC757.06	sequence orphan				
+SPCC757.04	0	SPCC757.04	transcription factor (predicted)				
+hse1	0	SPBC1734.08	STAM like protein Hse1				
+SPBC215.13	0	SPBC215.13	sequence orphan				
+SPCC24B10.02c	0	SPCC24B10.02c	NAD/NADH kinase (predicted)				
+SPAC1F8.04c	0	SPAC1F8.04c	hydrolase (predicted)				
+SPCC330.06c	0	SPCC330.06c	thioredoxin peroxidase (predicted)				
+SPAC19G12.09	0	SPAC19G12.09	NADH/NADPH dependent indole-3-acetaldehyde reductase AKR3C2				
+SPAC186.03	0	SPAC186.03	L-asparaginase (predicted)				
+SPAC12B10.01c	0	SPAC12B10.01c	ubiquitin-protein ligase E3 (predicted)				
+isp6	0	SPAC4A8.04	vacuolar serine protease Isp6				
+SPBC119.09c	0	SPBC119.09c	ORMDL family protein (predicted)				
+sib1	0	SPAC23G3.02c	ferrichrome synthetase Sib1				
+SPBC16C6.04	0	SPBC16C6.04	sequence orphan				
+gos1	0	SPAC4G8.10	SNARE Gos1 (predicted)				
+SPBC216.04c	0	SPBC216.04c	methionine sulfoxide (predicted)				
+SPCC70.02c	0	SPCC70.02c	mitochondrial ATPase inhibitor (predicted)				
+SPAC17A5.10	0	SPAC17A5.10	conserved fungal protein				
+SPBC28F2.05c	0	SPBC28F2.05c	xylose and arabinose reductase (predicted)				
+pcm2	0	SPAC869.08	protein-L-isoaspartate O-methyltransferase Pcm2 (predicted)				
+atg13	0	SPAC4F10.07c	autophagy associated protein kinase regulatory subunit Atg13				
+isa2	0	SPBC3B9.17	iron-sulfur protein Isa2				
+SPAC11D3.16c	0	SPAC11D3.16c	sequence orphan				
+ufd1	0	SPBC16A3.09c	Cdc48-Ufd1-Npl4 complex component Ufd1 (predicted)				
+SPCC1442.07c	0	SPCC1442.07c	ubiquitin/metalloprotease fusion protein (predicted)				
+SPAC27D7.11c	0	SPAC27D7.11c	But2 family protein				
+spd1	0	SPAC29B12.03	ribonucleotide reductase (RNR) inhibitor				
+SPAC5H10.02c	0	SPAC5H10.02c	ThiJ domain protein				
+sld3	0	SPAC24H6.06	DNA replication pre-initiation complex subunit Sld3				
+erg32	0	SPBC27B12.03c	C-5 sterol desaturase Erg32				
+SPCC736.13	0	SPCC736.13	short chain dehydrogenase (predicted)				
+SPCC663.08c	0	SPCC663.08c	short chain dehydrogenase				
+SPBC1773.02c	0	SPBC1773.02c	thioredoxin peroxidase (predicted)				
+SPCC736.15	0	SPCC736.15	fungal protein associated with endocytosis (predicted)				
+SPAC1B3.20	0	SPAC1B3.20	sequence orphan				
+ppa2	0	SPBC16H5.07c	serine/threonine protein phosphatase Ppa2				
+SPAC1786.01c	0	SPAC1786.01c	triacylglycerol lipase (predicted)				
+meu8	0	SPCC550.10	aldehyde dehydrogenase Meu8 (predicted)				
+SPAC29B12.13	0	SPAC29B12.13	S-(hydroxymethyl)glutathione synthase activity (predicted)				
+SPAC1B3.06c	0	SPAC1B3.06c	UbiE family methyltransferase (predicted)				
+SPAC1B3.08	0	SPAC1B3.08	COP9 signalosome complex subunit 12 (predicted)				
+zwf1	0	SPAC3A12.18	glucose-6-phosphate 1-dehydrogenase (predicted)				
+yak3	0	SPAC1F7.12	aldose reductase ARK13 family YakC				
+SPAC31A2.12	0	SPAC31A2.12	arrestin/PY protein 1 (predicted)				
+SPAC869.09	0	SPAC869.09	conserved fungal protein				
+c11c11.12	0	c11c11.12	Inhouse probe				
+chr2	0	SPCC417.05c	chitin synthase regulatory factor Chr2 (predicted)				
+bqt4	0	SPBC19C7.10	bouquet formation protein Bqt4				
+c27d7.10c	0	c27d7.10c	Inhouse probe				
+SPAC27E2.06c	0	SPAC27E2.06c	mitochondrial methionine-tRNA ligase (predicted)				
+Tf2-10-pseudo	0	SPBC1E8.04	retrotransposable element: pseudo				
+SPCC1739.08c	0	SPCC1739.08c	short chain dehydrogenase (predicted)				
+SPBC1683.03c	0	SPBC1683.03c	membrane transporter (predicted)				
+rft1	0	SPBC887.19	Man5GlcNac2-PP-Dol translocation protein Rft1 (predicted)				
+slt1	0	SPAC17G6.13	sequence orphan Slt1				
+SPAC11D3.01c	0	SPAC11D3.01c	conserved fungal protein				
+srk1	0	SPCC1322.08	MAPK-activated protein kinase Srk1				
+SPCC1322.04	0	SPCC1322.04	UTP-glucose-1-phosphate uridylyltransferase (predicted)				
+SPAC3A11.10c	0	SPAC3A11.10c	dipeptidyl peptidase (predicted)				
+SPCC4G3.03	0	SPCC4G3.03	WD40/YVTN repeat-like protein				
+ubc12	0	SPCC777.10c	NEDD8-conjugating enzyme Ubc12				
+mvp1	0	SPAC3A11.06	sorting nexin Mvp1 (predicted)				
+atf1	0	SPBC29B5.01	transcription factor, Atf-CREB family Atf1				
+SPBC1683.06c	0	SPBC1683.06c	uridine ribohydrolase (predicted)				
+mug182	0	SPAC15A10.05c	YjeF family pyridoxamine-phosphate oxidase (predicted)				
+uba3	0	SPAC24H6.12c	NEDD8 activating enzyme				
+SPBC21.02	0	SPBC21.02	TLDc domain protein 2				
+SPAC29B12.11c	0	SPAC29B12.11c	human WW domain binding protein-2 ortholog				
+tps1	0	SPAC328.03	alpha,alpha-trehalose-phosphate synthase [UDP-forming]				
+SPAC3A12.08	0	SPAC3A12.08	conserved fungal protein				
+SPAC24B11.05	0	SPAC24B11.05	pyrimidine 5'-nucleotidase (predicted)				
+psm1	0	SPBC29A10.04	mitotic cohesin complex subunit Psm1				
+SPAPJ691.02	0	SPAPJ691.02	yippee-like protein				
+SPAC25A8.02	0	SPAC25A8.02	sequence orphan				
+sib2	0	SPAC23G3.03	ornithine N5 monooxygenase (predicted)				
+atg9	0	SPBC15D4.07c	autophagy associated protein Atg9				
+SPCC663.06c	0	SPCC663.06c	short chain dehydrogenase (predicted)				
+SPAC16C9.01c	0	SPAC16C9.01c	carbohydrate kinase (predicted)				
+idh1	0	SPAC11G7.03	isocitrate dehydrogenase (NAD+) subunit 1 Idh1				
+c5h10.11.b	0	c5h10.11.b	Inhouse probe				
+SPAC31G5.21	0	SPAC31G5.21	human FAM32A homolog				
+nta1	0	SPBC23E6.03c	protein N-terminal amidase Nta1 (predicted)				
+sec18	0	SPAC1834.11c	secretory pathway protein Sec18 (predicted)				
+mpr1	0	SPBC725.02	histidine-containing response regulator phosphotransferase Mpr1				
+SPAC3G6.07	0	SPAC3G6.07	dubious				
+maf1	0	SPAC31G5.12c	repressor of RNA polymerase III Maf1				
+SPBC32F12.10	0	SPBC32F12.10	phosphoglucomutase (predicted)				
+SPAPB24D3.08c	0	SPAPB24D3.08c	NADP-dependent oxidoreductase (predicted)				
+gst3	0	SPAC688.04c	glutathione S-transferase Gst3				
+SPAC688.03c	0	SPAC688.03c	human AMMECR1 homolog				
+SPAC3G6.05	0	SPAC3G6.05	Mvp17/PMP22 family protein 1 (predicted)				
+SPAC11D3.08c	0	SPAC11D3.08c	amino acid permease, unknown 1 (predicted)				
+pkl1	0	SPAC3A11.14c	kinesin-like protein Pkl1				
+atp9	0	SPMIT.10	F0-ATPase subunit 9 (predicted)				
+atp8	0	SPMIT.09	F0-ATPase subunit 8 (predicted)				
+mug180	0	SPBPB2B2.02	esterase/lipase (predicted)				
+SPBC3H7.02	0	SPBC3H7.02	sulfate transporter (predicted)				
+SPAC22F8.05	0	SPAC22F8.05	alpha,alpha-trehalose-phosphate synthase (predicted)				
+atg22	0	SPAC2G11.13	vacuolar amino acid efflux transporter Atg22				
+atp6	0	SPMIT.07	F0-ATPase subunit 6 (predicted)				
+psp3	0	SPAC1006.01	vacuolar serine protease Psp3 (predicted)				
+SPBC25B2.10	0	SPBC25B2.10	Usp (universal stress protein) family protein				
+SPBC14F5.13c	0	SPBC14F5.13c	vacuolar membrane alkaline phosphatase (predicted)				
+sme2	0	SPNCRNA.103	non-coding RNA (predicted)				
+SPAC23H3.15c	0	SPAC23H3.15c	sequence orphan				
+SPBC25B2.01	0	SPBC25B2.01	elongation factor 1 alpha related protein (predicted)				
+SPBC530.05	0	SPBC530.05	transcription factor (predicted)				
+SPAC513.06c	0	SPAC513.06c	dihydrodiol dehydrogenase (predicted)				
+SPBC25B2.03	0	SPBC25B2.03	zf-C3HC4 type zinc finger				
+ntp1	0	SPBC660.07	alpha,alpha-trehalase Ntp1				
+SPAC18G6.09c	0	SPAC18G6.09c	sequence orphan				
+uve1	0	SPBC19C7.09c	endonuclease Uve1				
+pcr1	0	SPAC21E11.03c	transcription factor Pcr1				
+pka1	0	SPBC106.10	cAMP-dependent protein kinase catalytic subunit Pka1				
+SPCC23B6.01c	0	SPCC23B6.01c	oxysterol binding protein (predicted)				
+uvi15	0	SPBC649.04	UV-induced protein Uvi15				
+sst2	0	SPAC19B12.10	human AMSH/STAMBP protein homolog, ubiquitin specific-protease				
+atg4	0	SPAC19B12.08	Atg8 deconjugator Atg4 (predicted)				
+anc1	0	SPBC530.10c	mitochondrial adenine nucleotide carrier Anc1				
+mfs2	0	SPAC11D3.05	MFS family membrane transporter (predicted)				
+gld1	0	SPAC13F5.03c	mitochondrial glycerol dehydrogenase Gld1				
+SPAC11D3.09	0	SPAC11D3.09	agmatinase (predicted)				
+SPBC1271.05c	0	SPBC1271.05c	zf-AN1 type zinc finger protein				
+SPAC2F3.05c	0	SPAC2F3.05c	xylose and arabinose reductase (predicted)				
+mug150	0	SPCC1322.07c	sequence orphan				
+gti1	0	SPAC1751.01c	gluconate transporter inducer Gti1				
+SPCC61.03	0	SPCC61.03	carbohydrate kinase domain family protein				
+SPCC576.17c	0	SPCC576.17c	pyridoxamine/pyridoxine/pyridoxal transmembrane transporter (predicted)				
+hri1	0	SPAC20G4.03c	eIF2 alpha kinase Hri1				
+cwf23	0	SPCC10H11.02	DNAJ domain protein Cwf23				
+ran1	0	SPBC19C2.05	serine/threonine protein kinase Ran1				
+mug190	0	SPCP31B10.06	C2 domain protein				
+SPBC18H10.05	0	SPBC18H10.05	WD repeat protein, human WDR44 family				
+bzz1	0	SPBC12C2.05c	diacylglycerol binding protein Bzz1 (predicted)				
+SPAC11D3.17	0	SPAC11D3.17	zf-C2H2 type zinc finger protein				
+SPAC11D3.13	0	SPAC11D3.13	ThiJ domain protein				
+psl1	0	SPBC20F10.10	cyclin pho85 family (predicted)				
+atg8	0	SPBP8B7.24c	autophagy associated protein Atg8				
+SPAC343.20	0	SPAC343.20	dubious				
+pfa3	0	SPBC2F12.15c	palmitoyltransferase Pfa3 (predicted)				
+SPBC20F10.07	0	SPBC20F10.07	GRAM domain protein				
+SPBC20F10.03	0	SPBC20F10.03	conserved eukaryotic protein				
+mug121	0	SPAC13C5.06c	sequence orphan				
+ubx3	0	SPAC343.09	UBX domain protein Ubx3, Cdc48 cofactor				
+pzh1	0	SPAC57A7.08	serine/threonine protein phosphatase Pzh1				
+SPAC2C4.07c	0	SPAC2C4.07c	ribonuclease II (RNB) family (predicted)				
+ayr1	0	SPAC23D3.11	1-acyldihydroxyacetone phosphate reductase (predicted)				
+nab3	0	SPAC3H8.09c	poly(A) binding protein Nab3 (predicted)				
+vph2	0	SPCC757.10	endoplasmic reticulum membrane protein involved in assembly of the V-ATPase (predicted)				
+SPCC1235.01	0	SPCC1235.01	sequence orphan				
+SPCC594.04c	0	SPCC594.04c	steroid oxidoreductase superfamily protein (predicted)				
+SPBC36.02c	0	SPBC36.02c	spermidine family transporter (predicted)				
+hsf1	0	SPAC2E12.02	transcription factor Hsf1				
+SPBC2F12.05c	0	SPBC2F12.05c	sterol binding ankyrin repeat protein (predicted)				
+SPCC126.07c	0	SPCC126.07c	human CTD-binding SR-like protein rA9 homolog (predicted)				
+SPBC24C6.09c	0	SPBC24C6.09c	phosphoketolase family protein (predicted)				
+SPAC32A11.02c	0	SPAC32A11.02c	conserved fungal protein				
+SPCC63.14	0	SPCC63.14	conserved fungal protein				
+ubi4	0	SPBC337.08c	ubiquitin				
+SPAC15E1.02c	0	SPAC15E1.02c	DUF1761 family protein				
+plg7	0	SPBC106.11c	phospholipase A2, PAF family homolog				
+SPBC1271.07c	0	SPBC1271.07c	N-acetyltransferase (predicted)				
+SPAC17C9.11c	0	SPAC17C9.11c	zf-C2H2 type zinc finger protein/UBA domain protein				
+SPBC8E4.05c	0	SPBC8E4.05c	fumarate lyase superfamily				
+mok13	0	SPBC16D10.05	alpha-1,3-glucan synthase Mok13				
+cid13	0	SPAC821.04c	poly(A) polymerase Cid13				
+SPBC660.16	0	SPBC660.16	phosphogluconate dehydrogenase, decarboxylating				
+rap1	0	SPBC1778.02	telomere binding protein Rap1				
+SPCC364.07	0	SPCC364.07	D-3 phosphoglycerate dehydrogenase (predicted)				
+tpp1	0	SPAC19G12.15c	trehalose-6-phosphate phosphatase Tpp1				
+SPBC1773.17c	0	SPBC1773.17c	glyoxylate reductase (predicted)				
+SPBC19G7.18c	0	SPBC19G7.18c	sequence orphan				
+SPAC13F5.07c	0	SPAC13F5.07c	zf PARP type zinc finger protein				
+arz1	0	SPCC1494.03	armadillo repeat containing, Zfs1 target number 1				
+cta3	0	SPBC839.06	P-type ATPase, calcium transporting Cta3				
+ctt1	0	SPCC757.07c	catalase				
+SPAC20G4.05c	0	SPAC20G4.05c	UPF0061 family protein				
+SPBC1271.08c	0	SPBC1271.08c	sequence orphan				
+SPAC343.04c	0	SPAC343.04c	WD repeat protein, human WDR26 family, ubiquitin ligase complex subunit (predicted)				
+SPAC23C4.05c	0	SPAC23C4.05c	LEA domain protein				
+gyp7	0	SPAC630.05	GTPase activating protein Gyp7 (predicted)				
+SPAC1F12.10c	0	SPAC1F12.10c	NADPH-hemoprotein reductase (predicted)				
+SPAC22A12.17c	0	SPAC22A12.17c	short chain dehydrogenase (predicted)				
+SPBC660.06	0	SPBC660.06	conserved fungal protein				
+SPBC660.05	0	SPBC660.05	conserved fungal protein				
+SPCC757.11c	0	SPCC757.11c	membrane transporter (predicted)				
+mug168	0	SPBC660.09	sequence orphan				
+c19g7.12c	0	c19g7.12c	Inhouse probe				

@@ -1,0 +1,57 @@
+---
+title: "Analysis of H3K9ac in WT and cbf11 knock-out fission yeast"
+author: "Martin Převorovský, prevorov@natur.cuni.cz, http://www.GenoMik.cz"
+output: html_document
+---
+
+```{r setup, message=FALSE}
+library('rtracklayer')
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Prepare genome annotation and gene lists
+
+GFF annotation was downloaded from https://www.pombase.org/data/genome_sequence_and_features/gff3/Schizosaccharomyces_pombe_all_chromosomes.gff3.gz
+
+```{r, eval=TRUE}
+gff <- import.gff3('Schizosaccharomyces_pombe_all_chromosomes.gff3.gz')
+gff.genes <- gff[gff$type == 'gene', ]
+gff.genes <- gff.genes[seqnames(gff.genes) %in% c('I', 'II', 'III')]
+gff.genes <- gff.genes[order(seqnames(gff.genes), start(gff.genes)), ]
+gff.genes$score <- 0
+
+CESR_up <- read.delim('CESRup_All.txt', header = TRUE, sep = '\t', stringsAsFactors = FALSE)
+CESR_up <- CESR_up[CESR_up$Genbank %in% gff.genes$ID, ]
+
+cbf11_up <- read.delim('cbf11 2xUP (3of4) in YES log.txt', header = FALSE, sep = '\t', stringsAsFactors = FALSE)
+cbf11_up <- cbf11_up[cbf11_up[, 2] %in% gff.genes$ID, ]
+
+CESR_up_cbf11_up <- CESR_up[CESR_up$Genbank %in% cbf11_up[, 2], ]
+CESR_up_cbf11_other <- CESR_up[!CESR_up$Genbank %in% cbf11_up[, 2], ]
+
+export.bed(gff.genes[gff.genes$ID %in% CESR_up_cbf11_up$Genbank, ], 'CESR_up_cbf11_up.bed')
+export.bed(gff.genes[gff.genes$ID %in% CESR_up_cbf11_other$Genbank, ], 'CESR_up_cbf11_other.bed')
+export.bed(gff.genes, 'all_genes.bed')
+```
+
+
+## Plot average gene profiles
+
+```{bash}
+deeptools --version
+```
+
+```{bash, eval=TRUE}
+coverage_dir="./CPM_normalized_bigwig/"
+
+computeMatrix reference-point -S "${coverage_dir}A-Ac-1.bam.norm.bw" "${coverage_dir}B-Ac-1.bam.norm.bw" "${coverage_dir}A-Ac-4.bam.norm.bw" "${coverage_dir}B-Ac-4.bam.norm.bw" "${coverage_dir}A-H-1.bam.norm.bw" "${coverage_dir}B-H-1.bam.norm.bw" "${coverage_dir}A-H-4.bam.norm.bw" "${coverage_dir}B-H-4.bam.norm.bw" -R "CESR_up_cbf11_up.bed" "CESR_up_cbf11_other.bed" "all_genes.bed" --beforeRegionStartLength 500 --afterRegionStartLength 1000 --outFileName "computeMatrix_CESR_prof_all.mat.gz" --numberOfProcessors 3 --referencePoint TSS --nanAfterEnd
+
+plotProfile -m "computeMatrix_CESR_prof_all.mat.gz" -out "plotProfile_CESR_all.svg" --startLabel "start" --endLabel "end" --regionsLabel "CESR-UP up in cbf11" "CESR-UP other" "all genes" --samplesLabel "WT_1_H3K9ac" "cbf11_1_H3K9ac" "WT_4_H3K9ac" "cbf11_4_H3K9ac" "WT_1_H3" "cbf11_1_H3" "WT_4_H3" "cbf11_4_H3" --numPlotsPerRow 4 --plotType se --yMin 2.5 2.5 2.5 2.5 0.5 0.5 1.5 1.5 --yMax 8.5 8.5 9 9 11 11 6.5 6.5 --colors "blue" "red" "black" --yAxisLabel "RPM" --legendLocation upper-left
+```
+
+***
+
+```{r}
+sessionInfo()
+```
