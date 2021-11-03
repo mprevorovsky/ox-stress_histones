@@ -1,6 +1,6 @@
 # ox-stress_histones
 
-**Perturbed fatty acid metabolism is associated with chromatin hyperacetylation, increased stress-response gene expression and resistance to oxidative stress**
+**Perturbed fatty-acid metabolism is linked to chromatin hyperacetylation, increased stress-response gene expression and resistance to oxidative stress**
 
 Jarmila Princová, Clàudia Salat-Canela, Petr Daněk, Anna Marešová, Laura de Cubas, Jürg Bähler, José Ayté, Elena Hidalgo, and Martin Převorovský
 
