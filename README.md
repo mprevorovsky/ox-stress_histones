@@ -1,8 +1,12 @@
-# ox-stress_histones
+Scripts for the manuscript:
 
-**Perturbed fatty-acid metabolism is linked to chromatin hyperacetylation, increased stress-response gene expression and resistance to oxidative stress**
+**Perturbed fatty-acid metabolism is linked to localized chromatin hyperacetylation, increased stress-response gene expression and resistance to oxidative stress**
 
-Jarmila Princová, Clàudia Salat-Canela, Petr Daněk, Anna Marešová, Laura de Cubas, Jürg Bähler, José Ayté, Elena Hidalgo, and Martin Převorovský
+Jarmila Princová, Clàudia Salat-Canela, Petr Daněk, Anna Marešová, Laura de Cubas, Jürg Bähler, José Ayté, Elena Hidalgo, Martin Převorovský
+
+PLoS Genet. 2023 Jan 10;19(1):e1010582. <a href=https://doi.org/10.1371/journal.pgen.1010582>doi: 10.1371/journal.pgen.1010582</a>.
+
+Oxidative stress is associated with cardiovascular and neurodegenerative diseases, diabetes, cancer, psychiatric disorders and aging. In order to counteract, eliminate and/or adapt to the sources of stress, cells possess elaborate stress-response mechanisms, which also operate at the level of regulating transcription. Interestingly, it is becoming apparent that the metabolic state of the cell and certain metabolites can directly control the epigenetic information and gene expression. In the fission yeast Schizosaccharomyces pombe, the conserved Sty1 stress-activated protein kinase cascade is the main pathway responding to most types of stresses, and regulates the transcription of hundreds of genes via the Atf1 transcription factor. Here we report that fission yeast cells defective in fatty acid synthesis (cbf11, mga2 and ACC/cut6 mutants; FAS inhibition) show increased expression of a subset of stress-response genes. This altered gene expression depends on Sty1-Atf1, the Pap1 transcription factor, and the Gcn5 and Mst1 histone acetyltransferases, is associated with increased acetylation of histone H3 at lysine 9 in the corresponding gene promoters, and results in increased cellular resistance to oxidative stress. We propose that changes in lipid metabolism can regulate the chromatin and transcription of specific stress-response genes, which in turn might help cells to maintain redox homeostasis.
 
 <br>
 
